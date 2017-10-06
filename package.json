@@ -1,0 +1,30 @@
+{
+  "name": "breakout",
+  "version": "1.0.0",
+  "description": "A breakout game implementation",
+  "main": "game.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tripper6656/Breakout.git"
+  },
+  "keywords": [
+    "breakout"
+  ],
+  "author": "Tim Ripper",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Tripper6656/Breakout/issues"
+  },
+  "homepage": "https://github.com/Tripper6656/Breakout#readme",
+  "devDependencies": {
+    "react-scripts": "^1.0.14"
+  },
+  "dependencies": {
+    "play-sound": "^1.1.1"
+  }
+}
